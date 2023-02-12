@@ -1,4 +1,4 @@
-# interger_array
+# interger_array_counting_duplicate
 
 Given an integer array, numbers, count the number of elements that occur more than once.
 
